@@ -1,1 +1,3 @@
-$('a').greenify()
+module.exports = function () {
+  $('a').greenify()
+}
